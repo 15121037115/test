@@ -1,0 +1,13 @@
+{
+    "name": "15121037115/tset",
+    "description": "project",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "15121037115",
+            "email": "1096651701@qq.com"
+        }
+    ],
+    "require": {}
+}
